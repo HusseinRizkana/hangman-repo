@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ad Skipper</string>
+    <string name="service_label">Ad Skipper</string>
+    <string name="service_description">Watches for full-screen ads inside apps and automatically taps their Skip or Close button as soon as it appears. It can also mute ads while they play. Ad Skipper does not collect or send any data.</string>
+</resources>
